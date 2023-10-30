@@ -1,5 +1,5 @@
 """
-Music Playlist Manager
+Music Playlist Manager in python
 """
 
 print("Welcome to Music Playlist Manager!")
